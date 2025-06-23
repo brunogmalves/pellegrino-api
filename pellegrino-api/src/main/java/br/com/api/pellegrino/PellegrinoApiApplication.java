@@ -1,4 +1,4 @@
-package br.com.api.pellegrino.pellegrinoapi;
+package br.com.api.pellegrino;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
